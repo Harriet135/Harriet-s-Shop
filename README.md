@@ -1,0 +1,1 @@
+It is a website created and developed by Harriet Olalekan for the purpose of online shopping.

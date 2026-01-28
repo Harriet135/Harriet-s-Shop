@@ -1,0 +1,47 @@
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.original_div{
+    background-color: rgb(3, 58, 3);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.original_div a{
+    text-decoration: none;
+    color: white;
+}
+
+.original_div a:hover{
+    color: rgb(3, 71, 3);
+}
+
+.parent_div{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+}
+
+.parent_div div{
+    flex-basis: 300px;
+    border: 1px solid rgb(3, 70, 3);
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.parent_div div p{
+    padding: 5px;
+}
+
+img{
+    width: 300px;
+}
+
